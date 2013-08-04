@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AngularJS",
+		"AngularJS Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Edit History",
+		"Git",
+		"Github Tools",
+		"Grunt",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript Patterns",
+		"JSHint",
+		"LESS",
+		"LiveReload",
+		"Local History",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"Surround"
+	]
+}

@@ -1,0 +1,3 @@
+[
+    { "keys": ["alt+insert"], "command": "surround_selection"}
+]

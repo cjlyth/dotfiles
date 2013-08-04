@@ -1,0 +1,8 @@
+{
+  "save_first": true,
+  "node_command": "/usr/local/bin/node",
+  "npm_command": "/usr/local/bin/npm",
+  "node_path": "/usr/local/lib/node_modules/",
+  "expert_mode": false,
+  "ouput_to_new_tab": true
+}

@@ -1,0 +1,19 @@
+{
+	"theme": "Soda Dark.sublime-theme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12.0,
+	"auto_complete_commit_on_tab": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"rulers":
+	[
+	],
+	"translate_tabs_to_spaces": true
+}
+
+
